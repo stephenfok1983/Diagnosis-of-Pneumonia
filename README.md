@@ -1,6 +1,6 @@
 # Diagnosis-of-Pneumonia
 
-Project Title: Diagnosis of Phnemonia
+Project Title: Diagnosis of Pneumonia
 Business Value: It is known that Phnemonia has swept through the world since early 2020. Millions of people get infected with COVID globally. This project is used to assist doctors to make diagnosis to patients for pneumonia.
 It can significantly reduce the time cost of doctor to check X-Ray for pneumonia diagonsis.
 

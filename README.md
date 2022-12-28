@@ -9,7 +9,7 @@ Project Brief
 1) Thousands of images of X-Rays of Pneumonia confirmed cases and normal people are used as training and test datasets. (Will further discuss with you the images source when you approach me in person.)
 2) Input shape of training dataset: 280, 280, 3
 3) Output class: Binary
-4) Model Accuracy: about 97.5%
+4) Model Accuracy: about 90%
 
 Output: 1 stands for confirmed case of pneumonia, 0 stands for negative.
 

@@ -6,7 +6,7 @@ It can significantly reduce the time cost of doctor to check X-Ray for pneumonia
 
 
 Project Brief
-1) Thousands of images of X-Rays of Phnemonia confirmed cases and normal people are used as training and test datasets. (Will further discuss with you the images source when you approach me in person.)
+1) Thousands of images of X-Rays of Pneumonia confirmed cases and normal people are used as training and test datasets. (Will further discuss with you the images source when you approach me in person.)
 2) Input shape of training dataset: 280, 280, 3
 3) Output class: Binary
 4) Model Accuracy: about 97.5%

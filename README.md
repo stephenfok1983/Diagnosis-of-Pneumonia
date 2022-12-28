@@ -16,5 +16,5 @@ Output: 1 stands for confirmed case of pneumonia, 0 stands for negative.
 Languages: Python
 Platform used: Jupyter Notebook
 
-Library used: Tensorflow, scikit-image, Numpy, Matplotlib, OpenCV etc.
+Library used: Deep Learning Tensorflow, scikit-image, Numpy, Matplotlib, OpenCV etc.
 
